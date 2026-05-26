@@ -25,7 +25,7 @@ Bạn có thể tải file Ebook trực tiếp tại các liên kết sau:
 ## 📱 Hướng dẫn phần mềm đọc truyện
 Để file EPUB hiển thị tốt nhất, các bạn nên sử dụng các ứng dụng chuyên dụng:
 * **Android:** Tải ứng dụng **Vbook** **[Tải ở đây](https://vbookapp.gitbook.io/huong-dan-su-dung)**
-* **iOS (iPhone/iPad):** Tải ứng dụng **EbooX** trên AppStore, hoặc dùng Vbook (bản beta).
+* **iOS (iPhone/iPad):** Tải ứng dụng **EbooX** **[Tải ở đây](https://apps.apple.com/us/app/eboox-fb2-epub-book-reader/id1489172068)** trên AppStore, hoặc dùng Vbook (bản beta).
 * **Máy tính (PC/Laptop):** Cài đặt tiện ích mở rộng **Epubreader** trên trình duyệt Chrome/Edge, hoặc tải phần mềm **FBreader**.
 
 ## 🤝 Đóng góp & Báo lỗi
