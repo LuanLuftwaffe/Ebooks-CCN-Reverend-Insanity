@@ -23,7 +23,7 @@ Bạn có thể tải file Ebook trực tiếp tại các liên kết sau:
 Để file EPUB hiển thị tốt nhất, các bạn nên sử dụng các ứng dụng chuyên dụng:
 * **Android:** Tải ứng dụng **Vbook** **[Tải ở đây](https://vbookapp.gitbook.io/huong-dan-su-dung)**
 * **iOS (iPhone/iPad):** Tải ứng dụng **EbooX** **[Tải ở đây](https://apps.apple.com/us/app/eboox-fb2-epub-book-reader/id1489172068)** trên AppStore, hoặc dùng Vbook (bản beta).
-* **Máy tính (PC/Laptop):** Cài đặt tiện ích mở rộng **Epubreader** trên trình duyệt Chrome/Edge, hoặc tải phần mềm **FBreader**.
+* **Máy tính (PC/Laptop):** Cài đặt tiện ích mở rộng **Epubreader** **[Tải ở đây](https://chromewebstore.google.com/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?pli=1)** trên trình duyệt Chrome/Edge, phần mềm **FBreader** **[Tải ở đây](https://fbreader.org/)**, phần mềm Calibre **[Tải ở đây](https://calibre-ebook.com/)** .
 
 ## 🤝 Đóng góp & Báo lỗi
 Hiện tại nhân sự của team không đủ để dò sát sao từng câu cú trong một tác phẩm đồ sộ. Do đó, team rất mong nhận được sự hỗ trợ từ cộng đồng!
