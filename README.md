@@ -18,9 +18,6 @@ Sau hơn 1 năm phát triển, bản EPUB hiện tại đã được nâng cấp
 ## 📥 Tải Ebook (Đọc Offline)
 Bạn có thể tải file Ebook trực tiếp tại các liên kết sau:
 * **[Kho lưu trữ GitHub](https://github.com/LuanLuftwaffe/Ebooks)** (Khuyên dùng)
-* **[Link Google Drive](https://drive.google.com/.../1wLrMyFUQULJlHnzWR3S.../view...)**
-
-*(Lưu ý: Khi tải qua Google Drive có thể mất khoảng 10-15s do hệ thống của Google cần thời gian quét virus file lớn. Nếu không tải được, vui lòng báo lại cho mình).*
 
 ## 📱 Hướng dẫn phần mềm đọc truyện
 Để file EPUB hiển thị tốt nhất, các bạn nên sử dụng các ứng dụng chuyên dụng:
