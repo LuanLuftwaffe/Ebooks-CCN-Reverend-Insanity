@@ -1,8 +1,8 @@
 <div align="center">
 <br/>
 
-<!-- Thay link ảnh dưới đây bằng link ảnh bìa/banner truyện Cổ Chân Nhân của bạn -->
-<img src="https://via.placeholder.com/800x250.png?text=Banner+Truy%E1%BB%87n+C%E1%BB%95+Ch%C3%A2n+Nh%C3%A2n" width="100%" alt="Cổ Chân Nhân Banner" />
+<!-- Ảnh bìa Cổ Chân Nhân -->
+<img src="./banner_cnn.png" width="100%" alt="Cổ Chân Nhân Banner" />
 
 <br/>
 
