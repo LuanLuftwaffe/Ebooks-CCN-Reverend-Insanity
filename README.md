@@ -97,7 +97,7 @@ Hiện tại nhân sự của team không đủ để dò sát sao từng câu c
 
 Dự án đã tiêu tốn hơn 1 năm rưỡi tâm huyết và được chia sẻ hoàn toàn miễn phí. Nếu bạn thấy bản dịch chất lượng và muốn tiếp thêm động lực cho team, bạn có thể mời chúng mình một ly cà phê nhé! ❤️
 
-| </br> ![Momo](https://img.shields.io/badge/Momo-D82D8B?style=for-the-badge&logo=momo&logoColor=white) <br/> <br/> `09xxxxxx` (Tên Của Bạn) <br/> <br/> | </br> ![Bank](https://img.shields.io/badge/Ngân_hàng-0052CC?style=for-the-badge) <br/> <br/> `Số Tài Khoản` (Tên NH - Tên Của Bạn) <br/> <br/> |
+| </br> ![Momo](https://img.shields.io/badge/Momo-D82D8B?style=for-the-badge&logo=momo&logoColor=white) <br/> <br/> `09xxxxxx` <br/> <br/> | </br> ![Bank](https://img.shields.io/badge/Ngân_hàng-0052CC?style=for-the-badge) <br/> <br/> `Số Tài Khoản` (MB Bank) <br/> <br/> |
 |:---:|:---:|
 
 <br/>
