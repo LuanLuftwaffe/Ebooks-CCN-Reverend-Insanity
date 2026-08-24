@@ -14,7 +14,9 @@
   <img alt="Status" src="https://img.shields.io/badge/Tiến_độ-Đang_hoàn_thiện-brightgreen?style=for-the-badge"/>
   <img alt="Author" src="https://img.shields.io/badge/Tác_giả-Cổ_Chân_Nhân-purple?style=for-the-badge"/>
   <br/>
-  <img alt="Downloads" src="https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/download/v1.0/Co-Chan-Nhan-Dich.epub"/>
+  <a href="https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/download/v1.0/Co-Chan-Nhan-Dich.epub">
+  <img alt="Downloads" src="https://img.shields.io/badge/Tải_về-EPUB-blue?style=for-the-badge&logo=download"/>
+</a>
   <img alt="Re-edit" src="https://img.shields.io/badge/Re--edit-Thiên_Dương_|_Khánh_Nguyênz_|_Hữu_Việt-ff69b4?style=for-the-badge"/>
 </p>
 
