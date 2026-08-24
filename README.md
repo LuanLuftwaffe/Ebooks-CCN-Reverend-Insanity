@@ -57,7 +57,7 @@ Sau hơn 1 năm phát triển, bản EPUB hiện tại đã được nâng cấp
 Hãy nhấn vào các nút bên dưới để tải về phiên bản mới nhất:
 
 <p align="middle">
-  <a [href="https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/download/v1.0/Co.Chan.Nhan.Dich.epub](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/download/v1.0/Co-Chan-Nhan-Dich.epub)">
+  <a href="https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/download/v1.0/Co-Chan-Nhan-Dich.epub">
     <img alt="Tải Ebook" src="https://img.shields.io/badge/TẢI_VỀ_EBOOK_(v1.0)-07ab4e?style=for-the-badge&logo=minutemailer&logoColor=white" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
