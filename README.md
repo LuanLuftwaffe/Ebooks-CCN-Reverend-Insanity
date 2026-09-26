@@ -104,14 +104,14 @@ Dự án đã tiêu tốn hơn 1 năm rưỡi tâm huyết và được chia s�
     <td align="center">
       <img src="https://img.shields.io/badge/Momo-D82D8B?style=for-the-badge&logo=momo&logoColor=white">
       <br><br>
-      <img src="./assets/qr-momo.png" width="180">
+      <img src="qr-momo.png" width="180">
       <br><br>
       <code>09xxxxxx</code>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Ngân_hàng-0052CC?style=for-the-badge">
       <br><br>
-      <img src="./assets/qr-mbbank.png" width="180">
+      <img src="qr-mbbank.png" width="180">
       <br><br>
       <code>Số Tài Khoản</code>
       <br>
