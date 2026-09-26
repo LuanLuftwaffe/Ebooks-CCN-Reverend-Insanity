@@ -76,8 +76,8 @@ Hãy nhấn vào các nút bên dưới để tải về phiên bản mới nh�
 | Thiết bị | Ứng dụng Khuyên Dùng | Liên kết Tải |
 |:---|:---|:---:|
 | 🤖 **Android** | **Vbook** | [Tải ở đây](https://vbookapp.gitbook.io/huong-dan-su-dung) |
-| 🍏 **iOS (iPhone/iPad)** | **EbooX** (hoặc Vbook bản beta) | [Tải trên AppStore](https://apps.apple.com/us/app/eboox-fb2-epub-book-reader/id1489172068) |
-| 💻 **Máy tính (PC/Laptop)** | **Epubreader** (Chrome/Edge) <br/> **FBreader** <br/> **Calibre** | [Epubreader](https://chromewebstore.google.com/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?pli=1) <br/> [FBreader](https://fbreader.org/) <br/> [Calibre](https://calibre-ebook.com/) |
+| 🍏 **iOS (iPhone/iPad)** | **Vbook** (hoặc EbookX) | [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) |
+| 💻 **Máy tính (PC/Laptop)** | **Epubreader** (Chrome/Edge) <br/> **Vbook** <br/> **Calibre** | [Epubreader](https://chromewebstore.google.com/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?pli=1) <br/> [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) <br/> [Calibre](https://calibre-ebook.com/) |
 
 <br/>
 
