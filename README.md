@@ -106,14 +106,12 @@ Dự án đã tiêu tốn hơn 1 năm rưỡi tâm huyết và được chia s�
       <br><br>
       <img src="qr-momo.png" width="180">
       <br><br>
-      <code>09xxxxxx</code>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Ngân_hàng-0052CC?style=for-the-badge">
       <br><br>
       <img src="qr-mbbank.png" width="180">
       <br><br>
-      <code>Số Tài Khoản</code>
       <br>
       MB Bank
     </td>
