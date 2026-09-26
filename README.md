@@ -120,10 +120,6 @@ Dự án đã tiêu tốn hơn 1 năm rưỡi tâm huyết và được chia s�
 
 ## 📢 Những người đóng góp (Contributors)
 
-## 📢 Những người đóng góp (Contributors)
-
-## 📢 Những người đóng góp (Contributors)
-
 Gửi lời cảm ơn chân thành tới các thành viên đã dành thời gian re-edit tác phẩm này:
 * **Thiên Dương** 
 * **Khánh Nguyênz**
