@@ -97,28 +97,34 @@ Hiện tại nhân sự của team không đủ để dò sát sao từng câu c
 
 ## ☕ Ủng hộ Team (Donate)
 
+## ☕ Ủng hộ Team (Donate)
+
 Dự án đã tiêu tốn hơn 1 năm rưỡi tâm huyết và được chia sẻ hoàn toàn miễn phí. Nếu bạn thấy bản dịch chất lượng và muốn tiếp thêm động lực cho team, bạn có thể mời chúng mình một ly cà phê nhé! ❤️
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="230">
       <img src="https://img.shields.io/badge/Momo-D82D8B?style=for-the-badge&logo=momo&logoColor=white">
       <br><br>
-      <img src="qr-momo.png" width="180">
+      <img src="./assets/qr-momo.png" width="180" alt="QR Momo">
       <br><br>
+      <code>09xxxxxx</code>
     </td>
-    <td align="center">
+    <td align="center" width="230">
       <img src="https://img.shields.io/badge/Ngân_hàng-0052CC?style=for-the-badge">
       <br><br>
-      <img src="qr-mbbank.png" width="180">
+      <img src="./assets/qr-mbbank.png" width="180" alt="QR MB Bank">
       <br><br>
+      <code>Số Tài Khoản</code>
       <br>
-      MB Bank
+      <b>MB Bank</b>
     </td>
   </tr>
 </table>
 
-<br/>
+<br>
+
+## 📢 Những người đóng góp (Contributors)
 
 ## 📢 Những người đóng góp (Contributors)
 
