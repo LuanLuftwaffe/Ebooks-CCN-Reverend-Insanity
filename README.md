@@ -48,7 +48,7 @@ Sau hơn 1 năm phát triển, bản EPUB hiện tại đã được nâng cấp
 - [x] Đã sửa chữa một số lượng lớn lỗi chính tả và câu cú.
 - [x] Bổ sung thêm nhiều đoạn dịch thơ chuẩn xác.
 - [x] Cập nhật ảnh bìa riêng cho mỗi quyển (volume).
-- [ ] **Đang tiến hành:** Gộp từ 3.800 chương bản dịch về đúng chuẩn cấu trúc 2.300 chương theo nguyên tác. *(Do team mỗi người đều có công việc riêng nên tiến độ phần này đang được thực hiện dần).*
+- [X] Gộp từ 3.800 chương bản dịch về đúng chuẩn cấu trúc 2.300 chương theo nguyên tác.*
 
 </details>
 
@@ -124,6 +124,8 @@ Gửi lời cảm ơn chân thành tới các thành viên đã dành thời gia
 * **Thiên Dương** 
 * **Khánh Nguyênz**
 * **Hữu Việt**
+Đóng góp sửa lỗi:
+Vũ Đăng Việt Anh
 
 <br/>
 
