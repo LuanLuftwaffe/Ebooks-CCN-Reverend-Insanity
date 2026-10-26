@@ -1,139 +1,216 @@
 <div align="center">
-<br/>
 
-<!-- Ảnh bìa Cổ Chân Nhân -->
+<!-- Banner: giữ ảnh bìa của bạn, hoặc dùng capsule-render làm tiêu đề phía trên -->
 <img src="./banner_cnn.png" width="100%" alt="Cổ Chân Nhân Banner" />
 
-<br/>
+<h1>📖 Cổ Chân Nhân · Bản Dịch Re-edit</h1>
 
-# 📖 Dự án Ebook Cổ Chân Nhân Dịch 
-*(Định dạng EPUB)*
-
-<p align="center">
-  <img alt="Format" src="https://img.shields.io/badge/Định_dạng-EPUB-blue?style=for-the-badge&logo=book"/>
-  <img alt="Status" src="https://img.shields.io/badge/Tiến_độ-Đang_hoàn_thiện-brightgreen?style=for-the-badge"/>
-  <img alt="Author" src="https://img.shields.io/badge/Tác_giả-Cổ_Chân_Nhân-purple?style=for-the-badge"/>
-  <br/>
-  <a href="https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/download/v1.0/Co-Chan-Nhan-Dich.epub">
-  <img alt="Downloads" src="https://img.shields.io/badge/Tải_về-EPUB-blue?style=for-the-badge&logo=download"/>
-</a>
-  <img alt="Re-edit" src="https://img.shields.io/badge/Re--edit-Thiên_Dương_|_Khánh_Nguyênz_|_Hữu_Việt-ff69b4?style=for-the-badge"/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=600&size=20&pause=1500&color=A855F7&center=true&vCenter=true&width=620&lines=2334+chương+đúng+chuẩn+nguyên+tác;EPUB+%C2%B7+TXT+%C2%B7+DOCX;Kèm+bản+tiếng+Anh+và+tiếng+Trung;Miễn+phí+%C2%B7+Phi+lợi+nhuận" alt="Typing SVG" />
 </p>
 
-Chào mừng các bạn đến với kho lưu trữ Ebook truyện **Cổ Chân Nhân**. Bản dịch này được re-edit dựa trên bản dịch hoàn chỉnh của những người đi trước, nhằm mang lại trải nghiệm đọc tuyệt vời nhất cho cộng đồng Đạo Hữu.
+<p>
+  <img alt="Chương" src="https://img.shields.io/badge/Số_chương-2.334-8b5cf6?style=for-the-badge"/>
+  <img alt="Định dạng" src="https://img.shields.io/badge/Định_dạng-EPUB_|_TXT_|_DOCX-2563eb?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  <img alt="Ngôn ngữ" src="https://img.shields.io/badge/Ngôn_ngữ-Việt_|_Anh_|_Trung-f59e0b?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  <br/>
+  <img alt="Tiến độ" src="https://img.shields.io/badge/Tiến_độ-Đang_hoàn_thiện-22c55e?style=for-the-badge"/>
+  <img alt="Tác giả" src="https://img.shields.io/badge/Tác_giả-Cổ_Chân_Nhân-a855f7?style=for-the-badge"/>
+  <img alt="Re-edit" src="https://img.shields.io/badge/Re--edit-Thiên_Dương_·_Khánh_Nguyênz_·_Hữu_Việt-ec4899?style=for-the-badge"/>
+</p>
+
+<p>
+  <a href="https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest">
+    <img alt="Tải bản mới nhất" src="https://img.shields.io/badge/⬇_TẢI_BẢN_MỚI_NHẤT-07ab4e?style=for-the-badge" height="42"/>
+  </a>
+  &nbsp;
+  <a href="https://forms.gle/QTLT7EBexU7U5Zyj9">
+    <img alt="Báo lỗi" src="https://img.shields.io/badge/🐞_BÁO_LỖI-4285F4?style=for-the-badge" height="42"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/LuanLuftwaffe/Ebooks">
+    <img alt="Kho lưu trữ" src="https://img.shields.io/badge/📚_KHO_LƯU_TRỮ-24292e?style=for-the-badge" height="42"/>
+  </a>
+</p>
+
+<sub>Chào mừng Đạo Hữu đến với kho Ebook <b>Cổ Chân Nhân</b>. Bản dịch được re-edit từ bản dịch hoàn chỉnh của những người đi trước, nhằm mang lại trải nghiệm đọc tốt nhất cho cộng đồng.</sub>
 
 </div>
 
-<br/>
+---
 
-## ⚔️ So sánh: Bản mạng vs Bản Re-edit của Team
+## 🧭 Mục lục
 
-| **Tiêu chí** | **Bản cũ trên mạng** | **Bản Re-edit của Team** |
-|:---:|:---:|:---:|
-| **Lỗi chính tả & câu cú** | Khá nhiều | :white_check_mark: Đã rà soát & sửa phần lớn |
-| **Chất lượng dịch thơ** | Khá thô | :white_check_mark: Chuẩn xác, bay bổng hơn |
-| **Trình bày (Ảnh bìa)** | Không có / Ít | :white_check_mark: Bìa riêng cho từng Quyển (Volume) |
-| **Cấu trúc chương** | ~3.800 chương (cắt vụn) | :white_check_mark: Đang gộp về chuẩn 2.300 chương nguyên tác |
+[✨ Điểm nổi bật](#-điểm-nổi-bật) ·
+[📥 Tải về](#-tải-về) ·
+[⚔️ So sánh](#️-so-sánh-bản-mạng-vs-bản-re-edit) ·
+[📝 Changelog](#-changelog) ·
+[📱 Phần mềm đọc](#-phần-mềm-đọc-truyện) ·
+[🤝 Báo lỗi](#-đóng-góp--báo-lỗi) ·
+[☕ Ủng hộ](#-ủng-hộ-team) ·
+[👥 Contributors](#-contributors)
 
-<br/>
+---
 
-## 📝 Thông tin cập nhật (Changelog)
-
-Sau hơn 1 năm phát triển, bản EPUB hiện tại đã được nâng cấp đáng kể. Nhấn vào bên dưới để xem chi tiết:
-
-<details>
-<summary><b>🔥 Các cải tiến nổi bật trong v1.0</b></summary>
-<br/>
-
-- [x] Đã sửa chữa một số lượng lớn lỗi chính tả và câu cú.
-- [x] Bổ sung thêm nhiều đoạn dịch thơ chuẩn xác.
-- [x] Cập nhật ảnh bìa riêng cho mỗi quyển (volume).
-- [X] Gộp từ 3.800 chương bản dịch về đúng chuẩn cấu trúc 2.300 chương theo nguyên tác.*
-
-</details>
-
-<br/>
-
-## 📥 Tải Ebook (Đọc Offline)
-
-Hãy nhấn vào các nút bên dưới để tải về phiên bản mới nhất:
-
-<p align="middle">
-  <a href="https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/download/v1.0/Co-Chan-Nhan-Dich.epub">
-    <img alt="Tải Ebook" src="https://img.shields.io/badge/TẢI_VỀ_EBOOK_(v1.0)-07ab4e?style=for-the-badge&logo=minutemailer&logoColor=white" height="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/LuanLuftwaffe/Ebooks">
-    <img alt="Kho Lưu Trữ" src="https://img.shields.io/badge/XEM_KHO_LƯU_TRỮ-24292e?style=for-the-badge&logo=github&logoColor=white" height="45"/>
-  </a>
-</p>
-
-<br/>
-
-## 📱 Hướng dẫn phần mềm đọc truyện
-Để file EPUB hiển thị tốt nhất, các bạn nên sử dụng các ứng dụng chuyên dụng:
-
-| Thiết bị | Ứng dụng Khuyên Dùng | Liên kết Tải |
-|:---|:---|:---:|
-| 🤖 **Android** | **Vbook** | [Tải ở đây](https://vbookapp.gitbook.io/huong-dan-su-dung) |
-| 🍏 **iOS (iPhone/iPad)** | **Vbook** (hoặc EbookX) | [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) |
-| 💻 **Máy tính (PC/Laptop)** | **Epubreader** (Chrome/Edge) <br/> **Vbook** <br/> **Calibre** | [Epubreader](https://chromewebstore.google.com/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?pli=1) <br/> [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) <br/> [Calibre](https://calibre-ebook.com/) |
-
-<br/>
-
-## 🤝 Đóng góp & Báo lỗi
-
-Hiện tại nhân sự của team không đủ để dò sát sao từng câu cú trong một tác phẩm đồ sộ. Do đó, team rất mong nhận được sự hỗ trợ từ cộng đồng!
-
-<p align="middle">
-  <a href="https://forms.gle/QTLT7EBexU7U5Zyj9">
-    <img src="https://img.shields.io/badge/Báo_Lỗi_Qua_Google_Form-4285F4?style=for-the-badge&logo=googleforms&logoColor=white" height="35"/>
-  </a>
-</p>
-
-* Nếu file bị lỗi không thể tải xuống, hoặc bạn muốn giao lưu/tìm thêm các bộ truyện hay khác, hãy **inbox trực tiếp qua Zalo** cho mình. Mình sẽ cố gắng fix và phản hồi sớm nhất khi có thời gian rảnh.
-
-<br/>
-
-## ☕ Ủng hộ Team (Donate)
-
-Dự án đã tiêu tốn hơn 1 năm rưỡi tâm huyết và được chia sẻ hoàn toàn miễn phí. Nếu bạn thấy bản dịch chất lượng và muốn tiếp thêm động lực cho team, bạn có thể mời chúng mình một ly cà phê nhé! ❤️
+## ✨ Điểm nổi bật
 
 <table>
   <tr>
-    <td align="center" width="230">
-      <img src="https://img.shields.io/badge/Momo-D82D8B?style=for-the-badge&logo=momo&logoColor=white">
-      <br><br>
-      <img src="qr-momo.jpg" width="180" alt="QR Momo">
-      <br><br>
+    <td align="center" width="25%">
+      <h3>📚 2.334</h3>
+      <sub>chương, gộp đúng cấu trúc nguyên tác</sub>
     </td>
-    <td align="center" width="230">
-      <img src="https://img.shields.io/badge/Ngân_hàng-0052CC?style=for-the-badge">
-      <br><br>
-      <img src="qr-mbbank.jpg" width="180" alt="QR MB Bank">
-      <br><br>
+    <td align="center" width="25%">
+      <h3>🖋️ Re-edit</h3>
+      <sub>sửa lỗi chính tả, câu cú, dịch thơ chuẩn hơn</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🖼️ Bìa riêng</h3>
+      <sub>mỗi Quyển (Volume) một ảnh bìa</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🌏 Đa ngôn ngữ</h3>
+      <sub>kèm bản EPUB tiếng Anh và tiếng Trung</sub>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-## 📢 Những người đóng góp (Contributors)
+## 📥 Tải về
 
-Gửi lời cảm ơn chân thành tới các thành viên đã dành thời gian re-edit tác phẩm này:
-* **Thiên Dương** 
-* **Khánh Nguyênz**
-* **Hữu Việt**
-Đóng góp sửa lỗi:
-Vũ Đăng Việt Anh
+> [!TIP]
+> Đọc điện thoại hoặc máy đọc sách: chọn **EPUB**. Đọc trên máy tính, in ấn hoặc chỉnh sửa: chọn **DOCX**. Cần văn bản thô để import vào app khác: chọn **TXT**.
 
-<br/>
+| Định dạng | Ngôn ngữ | Cấu trúc chương | Tải về |
+|:---:|:---:|:---:|:---:|
+| 📘 **EPUB** | 🇻🇳 Tiếng Việt (bản re-edit) | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_EPUB-2563eb?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
+| 📄 **TXT** | 🇻🇳 Tiếng Việt | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_TXT-64748b?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
+| 📝 **DOCX** | 🇻🇳 Tiếng Việt | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_DOCX-1d4ed8?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
+| 📗 **EPUB** | 🇬🇧 Tiếng Anh | theo bản gốc | [![Tải](https://img.shields.io/badge/Tải_EPUB_EN-16a34a?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
+| 📕 **EPUB** | 🇨🇳 Tiếng Trung (nguyên tác) | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_EPUB_CN-dc2626?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
 
-## ⚖️ Tuyên bố trách nhiệm (Disclaimer)
-
-Dự án Ebook này được thực hiện với mục đích **phi lợi nhuận**, nhằm lưu trữ và chia sẻ đam mê đọc truyện tới cộng đồng. Tất cả bản quyền nội dung gốc thuộc về tác giả **Cổ Chân Nhân**. Chúng tôi không chịu trách nhiệm về các vấn đề thương mại hay bản quyền phát sinh từ việc sử dụng bản dịch này của bên thứ ba.
+<!-- TODO: thay link "releases/latest" bằng link trực tiếp từng file khi đã upload, ví dụ:
+https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/download/<tag>/<ten-file> -->
 
 ---
+
+## ⚔️ So sánh: Bản mạng vs Bản Re-edit
+
+| **Tiêu chí** | **Bản cũ trên mạng** | **Bản Re-edit của Team** |
+|:---|:---:|:---:|
+| Lỗi chính tả & câu cú | Khá nhiều | ✅ Đã rà soát & sửa phần lớn |
+| Chất lượng dịch thơ | Khá thô | ✅ Chuẩn xác, bay bổng hơn |
+| Ảnh bìa | Không có / ít | ✅ Bìa riêng cho từng Quyển |
+| Cấu trúc chương | ~3.800 chương (cắt vụn) | ✅ **2.334 chương** đúng nguyên tác |
+| Định dạng | Thường chỉ 1 loại | ✅ EPUB, TXT, DOCX |
+| Đối chiếu | Không có | ✅ Kèm bản EPUB tiếng Anh và tiếng Trung |
+
+<details>
+<summary><b>📐 Về việc gộp chương (bấm để xem)</b></summary>
+<br/>
+
+Bản dịch gốc trên mạng bị chia nhỏ một chương thành nhiều phần (dạng `Tên chương (1)`, `(2)`, `(3)`…), nên tổng số lên tới ~3.800 mục. Team đã gộp lại theo cấu trúc **2.334 chương** của bản raw tiếng Trung, đối chiếu thêm với bản tiếng Anh.
+
+Nguyên tắc khi gộp: **không thêm, không bớt nội dung**, chỉ chuyển đoạn văn sang chương liền trước hoặc liền sau cho khớp ranh giới chương của nguyên tác.
+
+</details>
+
+---
+
+## 📝 Changelog
+
+<details open>
+<summary><b>🆕 Bản cập nhật mới nhất</b></summary>
+<br/>
+
+- [x] Hoàn tất gộp về đúng **2.334 chương** theo nguyên tác.
+- [x] Thêm định dạng **TXT** và **DOCX**.
+- [x] Thêm bản **EPUB tiếng Anh** và **EPUB tiếng Trung** để đối chiếu.
+
+</details>
+
+<details>
+<summary><b>🔥 v1.0</b></summary>
+<br/>
+
+- [x] Sửa một số lượng lớn lỗi chính tả và câu cú.
+- [x] Bổ sung nhiều đoạn dịch thơ chuẩn xác.
+- [x] Ảnh bìa riêng cho mỗi quyển (volume).
+- [x] Gộp một phần chương về cấu trúc nguyên tác.
+
+</details>
+
+---
+
+## 📱 Phần mềm đọc truyện
+
+Để EPUB hiển thị tốt nhất, nên dùng các ứng dụng chuyên dụng:
+
+| Thiết bị | Ứng dụng khuyên dùng | Liên kết |
+|:---|:---|:---:|
+| 🤖 **Android** | Vbook | [Tải ở đây](https://vbookapp.gitbook.io/huong-dan-su-dung) |
+| 🍏 **iOS (iPhone/iPad)** | Vbook (hoặc EbookX) | [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) |
+| 💻 **Máy tính** | Epubreader (Chrome/Edge), Vbook, Calibre | [Epubreader](https://chromewebstore.google.com/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?pli=1) · [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) · [Calibre](https://calibre-ebook.com/) |
+
+---
+
+## 🤝 Đóng góp & Báo lỗi
+
+Nhân sự của team không đủ để dò sát từng câu trong một tác phẩm đồ sộ, nên rất mong nhận được sự hỗ trợ từ cộng đồng.
+
+<p align="center">
+  <a href="https://forms.gle/QTLT7EBexU7U5Zyj9">
+    <img src="https://img.shields.io/badge/Báo_lỗi_qua_Google_Form-4285F4?style=for-the-badge&logo=googleforms&logoColor=white" height="38"/>
+  </a>
+</p>
+
+> [!NOTE]
+> File lỗi không tải được, hoặc muốn giao lưu, tìm thêm truyện hay? Hãy **inbox trực tiếp qua Zalo**. Mình sẽ phản hồi sớm nhất khi có thời gian rảnh.
+
+---
+
+## ☕ Ủng hộ Team
+
+Dự án đã tiêu tốn hơn 1 năm rưỡi tâm huyết và được chia sẻ hoàn toàn miễn phí. Nếu thấy bản dịch chất lượng, bạn có thể mời team một ly cà phê ❤️
+
 <div align="center">
-<i>Cảm ơn mọi người đã ủng hộ và chúc các bạn đọc truyện vui vẻ!</i>
+<table>
+  <tr>
+    <td align="center" width="230">
+      <img src="https://img.shields.io/badge/Momo-D82D8B?style=for-the-badge&logoColor=white"/>
+      <br/><br/>
+      <img src="qr-momo.jpg" width="180" alt="QR Momo"/>
+    </td>
+    <td align="center" width="230">
+      <img src="https://img.shields.io/badge/MB_Bank-0052CC?style=for-the-badge"/>
+      <br/><br/>
+      <img src="qr-mbbank.jpg" width="180" alt="QR MB Bank"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 👥 Contributors
+
+| Vai trò | Thành viên |
+|:---|:---|
+| ✍️ **Re-edit** | **Thiên Dương** · **Khánh Nguyênz** · **Hữu Việt** |
+| 🔧 **Đóng góp sửa lỗi** | Vũ Đăng Việt Anh |
+
+Cảm ơn tất cả các Đạo Hữu đã báo lỗi và đồng hành cùng dự án 🙏
+
+---
+
+## ⚖️ Tuyên bố trách nhiệm
+
+Dự án được thực hiện với mục đích **phi lợi nhuận**, nhằm lưu trữ và chia sẻ đam mê đọc truyện tới cộng đồng. Toàn bộ bản quyền nội dung gốc thuộc về tác giả **Cổ Chân Nhân**. Team không chịu trách nhiệm về các vấn đề thương mại hay bản quyền phát sinh từ việc bên thứ ba sử dụng bản dịch này.
+
+<div align="center">
+<br/>
+<i>Cảm ơn mọi người đã ủng hộ. Chúc Đạo Hữu đọc truyện vui vẻ!</i>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%" alt=""/>
 </div>
