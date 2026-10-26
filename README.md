@@ -4,11 +4,6 @@
 <img src="./banner_cnn.png" width="100%" alt="Cổ Chân Nhân Banner" />
 
 <h1>📖 Cổ Chân Nhân · Bản Dịch Re-edit</h1>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=600&size=20&pause=1500&color=A855F7&center=true&vCenter=true&width=620&lines=2334+chương+đúng+chuẩn+nguyên+tác;EPUB+%C2%B7+TXT+%C2%B7+DOCX;Kèm+bản+tiếng+Anh+và+tiếng+Trung;Miễn+phí+%C2%B7+Phi+lợi+nhuận" 
-</p>
-
 <p>
   <img alt="Chương" src="https://img.shields.io/badge/Số_chương-2.334-8b5cf6?style=for-the-badge"/>
   <img alt="Định dạng" src="https://img.shields.io/badge/Định_dạng-EPUB_|_TXT_|_DOCX-2563eb?style=for-the-badge&logo=bookstack&logoColor=white"/>
