@@ -149,8 +149,8 @@ Nguyên tắc khi gộp: **không thêm, không bớt nội dung**, chỉ chuy�
 
 | Thiết bị | Ứng dụng khuyên dùng | Liên kết |
 |:---|:---|:---:|
-| 🤖 **Android** | Vbook | [Tải ở đây](https://vbookapp.gitbook.io/huong-dan-su-dung) |
-| 🍏 **iOS (iPhone/iPad)** | Vbook (hoặc EbookX) | [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) |
+| 🤖 **Android** | Vbook | [Vbook](https://play.google.com/store/apps/details?id=com.vbook.android) |
+| 🍏 **iOS (iPhone/iPad)** | Vbook (hoặc EbooX) | [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) · [EbooX](https://apps.apple.com/us/app/eboox-fb2-epub-book-reader/id1489172068) | 
 | 💻 **Máy tính** | Epubreader (Chrome/Edge), Vbook, Calibre | [Epubreader](https://chromewebstore.google.com/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?pli=1) · [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) · [Calibre](https://calibre-ebook.com/) |
 
 ---
