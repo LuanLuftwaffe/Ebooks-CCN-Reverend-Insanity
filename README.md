@@ -6,7 +6,7 @@
 <h1>📖 Cổ Chân Nhân · Bản Dịch Re-edit</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=600&size=20&pause=1500&color=A855F7&center=true&vCenter=true&width=620&lines=2334+chương+đúng+chuẩn+nguyên+tác;EPUB+%C2%B7+TXT+%C2%B7+DOCX;Kèm+bản+tiếng+Anh+và+tiếng+Trung;Miễn+phí+%C2%B7+Phi+lợi+nhuận" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=600&size=20&pause=1500&color=A855F7&center=true&vCenter=true&width=620&lines=2334+chương+đúng+chuẩn+nguyên+tác;EPUB+%C2%B7+TXT+%C2%B7+DOCX;Kèm+bản+tiếng+Anh+và+tiếng+Trung;Miễn+phí+%C2%B7+Phi+lợi+nhuận" 
 </p>
 
 <p>
