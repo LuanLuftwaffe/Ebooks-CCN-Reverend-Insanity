@@ -82,7 +82,7 @@
 | 📘 **EPUB** | 🇻🇳 Tiếng Việt (bản re-edit) | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_EPUB-2563eb?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
 | 📄 **TXT** | 🇻🇳 Tiếng Việt | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_TXT-64748b?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
 | 📝 **DOCX** | 🇻🇳 Tiếng Việt | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_DOCX-1d4ed8?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
-| 📗 **EPUB** | 🇬🇧 Tiếng Anh | theo bản gốc | [![Tải](https://img.shields.io/badge/Tải_EPUB_EN-16a34a?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
+| 📗 **EPUB** | 🇬🇧 Tiếng Anh | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_EPUB_EN-16a34a?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
 | 📕 **EPUB** | 🇨🇳 Tiếng Trung (nguyên tác) | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_EPUB_CN-dc2626?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
 
 <!-- TODO: thay link "releases/latest" bằng link trực tiếp từng file khi đã upload, ví dụ:
