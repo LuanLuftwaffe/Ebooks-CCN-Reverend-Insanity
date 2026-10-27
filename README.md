@@ -5,19 +5,19 @@
 
 <h1>📖 Cổ Chân Nhân · Bản Dịch Re-edit</h1>
 <p>
-  <img alt="Phiên bản" src="https://img.shields.io/badge/Phiên_bản-v1.1-blue?style=for-the-badge&logo=github"/>
+  <img alt="Phiên bản" src="https://img.shields.io/badge/Phiên_bản-v1.0-blue?style=for-the-badge&logo=github"/>
   <img alt="Số chương" src="https://img.shields.io/badge/Số_chương-2.334_+_4_Ngoại_truyện-8b5cf6?style=for-the-badge"/>
   <img alt="Định dạng" src="https://img.shields.io/badge/Định_dạng-EPUB_|_TXT_|_DOCX-2563eb?style=for-the-badge&logo=bookstack&logoColor=white"/>
   <img alt="Ngôn ngữ" src="https://img.shields.io/badge/Ngôn_ngữ-Việt_|_Anh_|_Trung-f59e0b?style=for-the-badge&logo=googletranslate&logoColor=white"/>
   <br/>
-  <img alt="Tiến độ" src="https://img.shields.io/badge/Tiến_độ-Hoàn_thiện_v1.1-22c55e?style=for-the-badge"/>
+  <img alt="Tiến độ" src="https://img.shields.io/badge/Tiến_độ-Hoàn_thiện_v1.0-22c55e?style=for-the-badge"/>
   <img alt="Tác giả" src="https://img.shields.io/badge/Tác_giả-Cổ_Chân_Nhân-a855f7?style=for-the-badge"/>
   <img alt="Re-edit" src="https://img.shields.io/badge/Re--edit-Thiên_Dương_·_Khánh_Nguyênz_·_Hữu_Việt-ec4899?style=for-the-badge"/>
 </p>
 
 <p>
-  <a href="https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1">
-    <img alt="Tải bản mới nhất v1.1" src="https://img.shields.io/badge/⬇_TẢI_BẢN_MỚI_NHẤT_(v1.1)-07ab4e?style=for-the-badge" height="42"/>
+  <a href="https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.0">
+    <img alt="Tải bản mới nhất v1.0" src="https://img.shields.io/badge/⬇_TẢI_BẢN_MỚI_NHẤT_(v1.0)-07ab4e?style=for-the-badge" height="42"/>
   </a>
   &nbsp;
   <a href="https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link">
@@ -85,21 +85,21 @@
 > - 📄 **Cần văn bản thô để import vào các ứng dụng khác**: Chọn định dạng **TXT**.
 > - ⚠️ **Nếu không tải được trên GitHub** (do giới hạn mạng hoặc lỗi đường truyền), vui lòng sử dụng **[Link Google Drive Dự Phòng](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link)** — Trong thư mục Google Drive có lưu trữ đầy đủ toàn bộ file **EPUB, TXT và DOCX**!
 
-| Định dạng | Ngôn ngữ / Ấn bản | Cấu trúc & Nội dung | GitHub Release (v1.1) | Google Drive (Dự phòng) |
+| Định dạng | Ngôn ngữ / Ấn bản | Cấu trúc & Nội dung | GitHub Release (v1.0) | Google Drive (Dự phòng) |
 |:---:|:---|:---|:---:|:---:|
-| 📘 **EPUB** | 🇻🇳 **Tiếng Việt (Bản dịch Re-edit)** | 2.334 chương · 18 Tái bút · 11 Tâm sự · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-2563eb?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
-| 📘 **EPUB** | 🇻🇳 **Tiếng Việt (Bản convert)** | 2.334 chương (Chuẩn format bản dịch) · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-2563eb?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
-| 📗 **EPUB** | 🇬🇧 **Tiếng Anh (Reverend Insanity)** | 2.334 chương + 4 Ngoại truyện Cuồng Man · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-16a34a?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
-| 📕 **EPUB** | 🇨🇳 **Tiếng Trung (Raw Tinh Hiệu)** | 2.334 chương nguyên tác 精校 · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-dc2626?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
-| 📄 **TXT** | 🇻🇳 **Tiếng Việt (Bản dịch)** | 2.334 chương (Văn bản thuần UTF-8) | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-64748b?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
-| 📝 **DOCX** | 🇻🇳 **Tiếng Việt (Bản dịch)** | 2.334 chương (File Word hoàn chỉnh) | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-1d4ed8?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
-| 📑 **MD** | 🇻🇳 **Tái bút & Tâm sự tác giả** | Dịch nghĩa đầy đủ 18 Tái bút & 11 Đơn chương | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-0f172a?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📘 **EPUB** | 🇻🇳 **Tiếng Việt (Bản dịch Re-edit)** | 2.334 chương · 18 Tái bút · 11 Tâm sự · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-2563eb?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.0) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📘 **EPUB** | 🇻🇳 **Tiếng Việt (Bản convert)** | 2.334 chương (Chuẩn format bản dịch) · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-2563eb?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.0) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📗 **EPUB** | 🇬🇧 **Tiếng Anh (Reverend Insanity)** | 2.334 chương + 4 Ngoại truyện Cuồng Man · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-16a34a?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.0) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📕 **EPUB** | 🇨🇳 **Tiếng Trung (Raw Tinh Hiệu)** | 2.334 chương nguyên tác 精校 · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-dc2626?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.0) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📄 **TXT** | 🇻🇳 **Tiếng Việt (Bản dịch)** | 2.334 chương (Văn bản thuần UTF-8) | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-64748b?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.0) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📝 **DOCX** | 🇻🇳 **Tiếng Việt (Bản dịch)** | 2.334 chương (File Word hoàn chỉnh) | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-1d4ed8?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.0) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📑 **MD** | 🇻🇳 **Tái bút & Tâm sự tác giả** | Dịch nghĩa đầy đủ 18 Tái bút & 11 Đơn chương | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-0f172a?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.0) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
 
 ---
 
 ## ⚔️ So sánh: Bản mạng vs Bản Re-edit
 
-| **Tiêu chí** | **Bản cũ trên mạng** | **Bản Re-edit của Team (v1.1)** |
+| **Tiêu chí** | **Bản cũ trên mạng** | **Bản Re-edit của Team (v1.0)** |
 |:---|:---:|:---:|
 | Lỗi chính tả & câu cú | Khá nhiều | ✅ Đã rà soát & sửa toàn diện |
 | Chất lượng dịch thơ | Khá thô | ✅ Chuẩn xác, bay bổng, giữ trọn thần vận |
@@ -127,7 +127,7 @@ Nguyên tắc khi gộp: **không thêm, không bớt nội dung**, chỉ chuy�
 ## 📝 Changelog
 
 <details open>
-<summary><b>🆕 Bản cập nhật v1.1 (Mới nhất)</b></summary>
+<summary><b>🆕 Bản cập nhật v1.0 (Mới nhất)</b></summary>
 <br/>
 
 - [x] **Đồng bộ hóa toàn diện 4 ấn bản**: Quy chuẩn toàn bộ 4 bản (Dịch, Convert, Raw Trung Tinh Hiệu, Tiếng Anh) về cấu trúc phân tầng 7 Quyển, 2.334 chương và 7 ảnh bìa quyển.
