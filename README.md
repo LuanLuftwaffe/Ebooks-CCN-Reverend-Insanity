@@ -162,7 +162,7 @@ Nguyên tắc khi gộp: **không thêm, không bớt nội dung**, chỉ chuy�
 
 | Thiết bị | Ứng dụng khuyên dùng | Liên kết |
 |:---|:---|:---:|
-| 🤖 **Android** | Vbook, Moon+ Reader, ReadEra | [Vbook](https://play.google.com/store/apps/details?id=com.vbook.android) · [ReadEra](https://play.google.com/store/apps/details?id=org.readera) |
+| 🤖 **Android** | Vbook, Moon+ Reader, ReadEra | [Vbook](https://play.google.com/store/apps/details?id=com.vbook.android) · [Moon+ Reader Pro](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=vi) |
 | 🍏 **iOS (iPhone/iPad)** | Vbook, Apple Books, EbooX | [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) · [EbooX](https://apps.apple.com/us/app/eboox-fb2-epub-book-reader/id1489172068) | 
 | 💻 **Máy tính** | Epubreader (Chrome/Edge), Vbook, Calibre, Thorium | [Epubreader](https://chromewebstore.google.com/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?pli=1) · [Calibre](https://calibre-ebook.com/) |
 
