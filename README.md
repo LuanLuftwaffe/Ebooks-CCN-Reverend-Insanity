@@ -5,18 +5,23 @@
 
 <h1>📖 Cổ Chân Nhân · Bản Dịch Re-edit</h1>
 <p>
-  <img alt="Chương" src="https://img.shields.io/badge/Số_chương-2.334-8b5cf6?style=for-the-badge"/>
+  <img alt="Phiên bản" src="https://img.shields.io/badge/Phiên_bản-v1.1-blue?style=for-the-badge&logo=github"/>
+  <img alt="Số chương" src="https://img.shields.io/badge/Số_chương-2.334_+_4_Ngoại_truyện-8b5cf6?style=for-the-badge"/>
   <img alt="Định dạng" src="https://img.shields.io/badge/Định_dạng-EPUB_|_TXT_|_DOCX-2563eb?style=for-the-badge&logo=bookstack&logoColor=white"/>
   <img alt="Ngôn ngữ" src="https://img.shields.io/badge/Ngôn_ngữ-Việt_|_Anh_|_Trung-f59e0b?style=for-the-badge&logo=googletranslate&logoColor=white"/>
   <br/>
-  <img alt="Tiến độ" src="https://img.shields.io/badge/Tiến_độ-Đang_hoàn_thiện-22c55e?style=for-the-badge"/>
+  <img alt="Tiến độ" src="https://img.shields.io/badge/Tiến_độ-Hoàn_thiện_v1.1-22c55e?style=for-the-badge"/>
   <img alt="Tác giả" src="https://img.shields.io/badge/Tác_giả-Cổ_Chân_Nhân-a855f7?style=for-the-badge"/>
   <img alt="Re-edit" src="https://img.shields.io/badge/Re--edit-Thiên_Dương_·_Khánh_Nguyênz_·_Hữu_Việt-ec4899?style=for-the-badge"/>
 </p>
 
 <p>
-  <a href="https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest">
-    <img alt="Tải bản mới nhất" src="https://img.shields.io/badge/⬇_TẢI_BẢN_MỚI_NHẤT-07ab4e?style=for-the-badge" height="42"/>
+  <a href="https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1">
+    <img alt="Tải bản mới nhất v1.1" src="https://img.shields.io/badge/⬇_TẢI_BẢN_MỚI_NHẤT_(v1.1)-07ab4e?style=for-the-badge" height="42"/>
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link">
+    <img alt="Google Drive Dự phòng" src="https://img.shields.io/badge/📁_GOOGLE_DRIVE_(DỰ_PHÒNG)-ea4335?style=for-the-badge&logo=googledrive&logoColor=white" height="42"/>
   </a>
   &nbsp;
   <a href="https://forms.gle/QTLT7EBexU7U5Zyj9">
@@ -52,20 +57,20 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <h3>📚 2.334</h3>
-      <sub>chương, gộp đúng cấu trúc nguyên tác</sub>
+      <h3>📚 2.334 + 4</h3>
+      <sub>chương chuẩn nguyên tác kèm ngoại truyện Cuồng Man</sub>
     </td>
     <td align="center" width="25%">
-      <h3>🖋️ Re-edit</h3>
-      <sub>sửa lỗi chính tả, câu cú, dịch thơ chuẩn hơn</sub>
+      <h3>🖋️ Re-edit & Tái bút</h3>
+      <sub>sửa lỗi chính tả, câu cú, dịch thơ chuẩn, đủ 18 tái bút & 11 tâm sự</sub>
     </td>
     <td align="center" width="25%">
-      <h3>🖼️ Bìa riêng</h3>
-      <sub>mỗi Quyển (Volume) một ảnh bìa</sub>
+      <h3>🖼️ 7 Bìa Quyển</h3>
+      <sub>mỗi Quyển một ảnh bìa sắc nét, tối ưu dung lượng &lt; 25 MB</sub>
     </td>
     <td align="center" width="25%">
-      <h3>🌏 Đa ngôn ngữ</h3>
-      <sub>kèm bản EPUB tiếng Anh và tiếng Trung</sub>
+      <h3>🌏 4 Ấn bản đồng bộ</h3>
+      <sub>đối chiếu chuẩn xác giữa Dịch, Convert, Raw Trung và Tiếng Anh</sub>
     </td>
   </tr>
 </table>
@@ -75,38 +80,43 @@
 ## 📥 Tải về
 
 > [!TIP]
-> Đọc điện thoại hoặc máy đọc sách: chọn **EPUB**. Đọc trên máy tính, in ấn hoặc chỉnh sửa: chọn **DOCX**. Cần văn bản thô để import vào app khác: chọn **TXT**.
+> - 📱 **Đọc trên điện thoại hoặc máy đọc sách**: Khuyên dùng định dạng **EPUB** để có trải nghiệm dàn trang, tùy chỉnh font chữ, chế độ đọc ban đêm và hiển thị bìa quyển đẹp nhất.
+> - 💻 **Đọc trên máy tính, in ấn hoặc chỉnh sửa**: Chọn định dạng **DOCX**.
+> - 📄 **Cần văn bản thô để import vào các ứng dụng khác**: Chọn định dạng **TXT**.
+> - ⚠️ **Nếu không tải được trên GitHub** (do giới hạn mạng hoặc lỗi đường truyền), vui lòng sử dụng **[Link Google Drive Dự Phòng](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link)** — Trong thư mục Google Drive có lưu trữ đầy đủ toàn bộ file **EPUB, TXT và DOCX**!
 
-| Định dạng | Ngôn ngữ | Cấu trúc chương | Tải về |
-|:---:|:---:|:---:|:---:|
-| 📘 **EPUB** | 🇻🇳 Tiếng Việt (bản dịch) | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_EPUB-2563eb?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
-| 📘 **EPUB** | 🇻🇳 Tiếng Việt (bản convert) | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_EPUB-2563eb?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
-| 📄 **TXT** | 🇻🇳 Tiếng Việt | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_TXT-64748b?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
-| 📝 **DOCX** | 🇻🇳 Tiếng Việt | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_DOCX-1d4ed8?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
-| 📗 **EPUB** | 🇬🇧 Tiếng Anh | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_EPUB_EN-16a34a?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
-| 📕 **EPUB** | 🇨🇳 Tiếng Trung (nguyên tác) | 2.334 chương | [![Tải](https://img.shields.io/badge/Tải_EPUB_CN-dc2626?style=flat-square)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/latest) |
-
-<!-- TODO: thay link "releases/latest" bằng link trực tiếp từng file khi đã upload, ví dụ:
-https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/download/<tag>/<ten-file> -->
+| Định dạng | Ngôn ngữ / Ấn bản | Cấu trúc & Nội dung | GitHub Release (v1.1) | Google Drive (Dự phòng) |
+|:---:|:---|:---|:---:|:---:|
+| 📘 **EPUB** | 🇻🇳 **Tiếng Việt (Bản dịch Re-edit)** | 2.334 chương · 18 Tái bút · 11 Tâm sự · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-2563eb?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📘 **EPUB** | 🇻🇳 **Tiếng Việt (Bản convert)** | 2.334 chương (Chuẩn format bản dịch) · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-2563eb?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📗 **EPUB** | 🇬🇧 **Tiếng Anh (Reverend Insanity)** | 2.334 chương + 4 Ngoại truyện Cuồng Man · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-16a34a?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📕 **EPUB** | 🇨🇳 **Tiếng Trung (Raw Tinh Hiệu)** | 2.334 chương nguyên tác 精校 · 7 Bìa | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-dc2626?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📄 **TXT** | 🇻🇳 **Tiếng Việt (Bản dịch)** | 2.334 chương (Văn bản thuần UTF-8) | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-64748b?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📝 **DOCX** | 🇻🇳 **Tiếng Việt (Bản dịch)** | 2.334 chương (File Word hoàn chỉnh) | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-1d4ed8?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
+| 📑 **MD** | 🇻🇳 **Tái bút & Tâm sự tác giả** | Dịch nghĩa đầy đủ 18 Tái bút & 11 Đơn chương | [![Tải GitHub](https://img.shields.io/badge/Tải_GitHub-0f172a?style=flat-square&logo=github)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.1) | [![Tải Drive](https://img.shields.io/badge/Tải_Drive-ea4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XMvKHtxOZaHxcIvaKDlAyVaR5PMoz41m?usp=drive_link) |
 
 ---
 
 ## ⚔️ So sánh: Bản mạng vs Bản Re-edit
 
-| **Tiêu chí** | **Bản cũ trên mạng** | **Bản Re-edit của Team** |
+| **Tiêu chí** | **Bản cũ trên mạng** | **Bản Re-edit của Team (v1.1)** |
 |:---|:---:|:---:|
-| Lỗi chính tả & câu cú | Khá nhiều | ✅ Đã rà soát & sửa phần lớn |
-| Chất lượng dịch thơ | Khá thô | ✅ Chuẩn xác, bay bổng hơn |
-| Ảnh bìa | Không có / ít | ✅ Bìa riêng cho từng Quyển |
-| Cấu trúc chương | ~3.800 chương (cắt vụn) | ✅ **2.334 chương** đúng nguyên tác |
-| Định dạng | Thường chỉ 1 loại | ✅ EPUB, TXT, DOCX |
-| Đối chiếu | Không có | ✅ Kèm bản EPUB tiếng Anh và tiếng Trung |
+| Lỗi chính tả & câu cú | Khá nhiều | ✅ Đã rà soát & sửa toàn diện |
+| Chất lượng dịch thơ | Khá thô | ✅ Chuẩn xác, bay bổng, giữ trọn thần vận |
+| Cấu trúc chương | ~3.800 chương (cắt vụn) | ✅ **2.334 chương** khớp 100% nguyên tác |
+| Ảnh bìa | Không có / ít | ✅ Bìa riêng độ nét cao cho từng Quyển |
+| Tái bút & Lời tác giả | Bị lược bỏ hầu hết | ✅ Đầy đủ **18 Tái bút (PS)** và **11 bài Tâm sự/Đơn chương** |
+| Ngoại truyện | Thất lạc, thiếu bản Anh | ✅ Đầy đủ 4 chương ngoại truyện Cuồng Man Ma Tôn |
+| Tiêu đề chương | Lộn xộn, chữ thường | ✅ Chuẩn hóa viết hoa đầu câu, đồng bộ mục lục |
+| Định dạng hỗ trợ | Thường chỉ 1 loại | ✅ Đầy đủ **EPUB, TXT, DOCX, Markdown** |
+| Đối chiếu đa ngữ | Không có | ✅ Đồng bộ 4 ấn bản: **Dịch, Convert, Raw Trung, Tiếng Anh** |
+| Dung lượng file | Nặng, khó chia sẻ | ✅ Tối ưu nhẹ **&lt; 25 MB** (dễ dàng tải và upload) |
 
 <details>
 <summary><b>📐 Về việc gộp chương (bấm để xem)</b></summary>
 <br/>
 
-Bản dịch gốc trên mạng bị chia nhỏ một chương thành nhiều phần (dạng `Tên chương (1)`, `(2)`, `(3)`…), nên tổng số lên tới ~3.800 mục. Team đã gộp lại theo cấu trúc **2.334 chương** của bản raw tiếng Trung, đối chiếu thêm với bản tiếng Anh.
+Bản dịch cũ trên mạng bị chia nhỏ một chương thành nhiều phần (dạng `Tên chương (1)`, `(2)`, `(3)`…), nên tổng số lên tới ~3.800 mục. Team đã gộp lại theo cấu trúc **2.334 chương** của bản raw tiếng Trung, đối chiếu thêm với bản tiếng Anh.
 
 Nguyên tắc khi gộp: **không thêm, không bớt nội dung**, chỉ chuyển đoạn văn sang chương liền trước hoặc liền sau cho khớp ranh giới chương của nguyên tác.
 
@@ -117,12 +127,17 @@ Nguyên tắc khi gộp: **không thêm, không bớt nội dung**, chỉ chuy�
 ## 📝 Changelog
 
 <details open>
-<summary><b>🆕 Bản cập nhật mới nhất</b></summary>
+<summary><b>🆕 Bản cập nhật v1.1 (Mới nhất)</b></summary>
 <br/>
 
-- [x] Hoàn tất gộp về đúng **2.334 chương** theo nguyên tác.
-- [x] Thêm định dạng **TXT** và **DOCX**.
-- [x] Thêm bản **EPUB tiếng Anh** và **EPUB tiếng Trung** để đối chiếu.
+- [x] **Đồng bộ hóa toàn diện 4 ấn bản**: Quy chuẩn toàn bộ 4 bản (Dịch, Convert, Raw Trung Tinh Hiệu, Tiếng Anh) về cấu trúc phân tầng 7 Quyển, 2.334 chương và 7 ảnh bìa quyển.
+- [x] **Tích hợp Tái bút (PS) & Tâm sự tác giả**: Bổ sung đầy đủ **18 đoạn Tái bút** (từ Chương 1 đến 1251) và **11 bài Tâm sự tác giả/Đơn chương** (từ Chương 99 đến 2328) vào đúng vị trí từng chương.
+- [x] **Bổ sung Ngoại truyện Cuồng Man Ma Tôn**: Dịch nghĩa và tích hợp 4 chương ngoại truyện vào bản tiếng Anh (`Appendix 1 - 4`).
+- [x] **Chuẩn hóa viết hoa tiêu đề chương**: Quét và sửa toàn bộ các chương có chữ cái đầu viết thường trong nội dung HTML và các file mục lục (`nav.html`, `toc.ncx`).
+- [x] **Nâng cấp ảnh bìa bản tiếng Anh**: Bóc tách và thay thế bìa WebNovel chính thức chuẩn nét cao (1200 $\times$ 1600).
+- [x] **Tối ưu dung lượng EPUB**: Nén ảnh bìa thông minh, đảm bảo cả 4 file EPUB đều có dung lượng nhẹ dưới 25 MB (đáp ứng tiêu chuẩn web upload của GitHub).
+- [x] **Đính kèm tài liệu Markdown chuyên sâu**: Bổ sung file `Tai_But_Va_Tam_Su_Tac_Gia_Co_Chan_Nhan.md` dịch nghĩa chi tiết toàn bộ tái bút và đơn chương.
+- [x] **Thêm Link Google Drive Dự Phòng**: Bổ sung link Google Drive lưu trữ đầy đủ EPUB, TXT, DOCX phòng trường hợp mạng quốc tế khó tải GitHub.
 
 </details>
 
@@ -133,7 +148,9 @@ Nguyên tắc khi gộp: **không thêm, không bớt nội dung**, chỉ chuy�
 - [x] Sửa một số lượng lớn lỗi chính tả và câu cú.
 - [x] Bổ sung nhiều đoạn dịch thơ chuẩn xác.
 - [x] Ảnh bìa riêng cho mỗi quyển (volume).
-- [x] Gộp một phần chương về cấu trúc nguyên tác.
+- [x] Gộp toàn bộ chương về cấu trúc nguyên tác 2.334 chương.
+- [x] Thêm định dạng TXT và DOCX.
+- [x] Thêm bản EPUB tiếng Anh và EPUB tiếng Trung để đối chiếu.
 
 </details>
 
@@ -145,9 +162,9 @@ Nguyên tắc khi gộp: **không thêm, không bớt nội dung**, chỉ chuy�
 
 | Thiết bị | Ứng dụng khuyên dùng | Liên kết |
 |:---|:---|:---:|
-| 🤖 **Android** | Vbook | [Vbook](https://play.google.com/store/apps/details?id=com.vbook.android) |
-| 🍏 **iOS (iPhone/iPad)** | Vbook (hoặc EbooX) | [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) · [EbooX](https://apps.apple.com/us/app/eboox-fb2-epub-book-reader/id1489172068) | 
-| 💻 **Máy tính** | Epubreader (Chrome/Edge), Vbook, Calibre | [Epubreader](https://chromewebstore.google.com/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?pli=1) · [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) · [Calibre](https://calibre-ebook.com/) |
+| 🤖 **Android** | Vbook, Moon+ Reader, ReadEra | [Vbook](https://play.google.com/store/apps/details?id=com.vbook.android) · [ReadEra](https://play.google.com/store/apps/details?id=org.readera) |
+| 🍏 **iOS (iPhone/iPad)** | Vbook, Apple Books, EbooX | [Vbook](https://vbookapp.gitbook.io/huong-dan-su-dung) · [EbooX](https://apps.apple.com/us/app/eboox-fb2-epub-book-reader/id1489172068) | 
+| 💻 **Máy tính** | Epubreader (Chrome/Edge), Vbook, Calibre, Thorium | [Epubreader](https://chromewebstore.google.com/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?pli=1) · [Calibre](https://calibre-ebook.com/) |
 
 ---
 
